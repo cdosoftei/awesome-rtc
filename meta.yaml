@@ -1,0 +1,31 @@
+- name: FreeSWITCH
+  url: https://freeswitch.com
+  logo: https://freeswitch.com/wp-content/uploads/2018/03/FS-logo-slimmed-web-300x100.png
+  rss: https://freeswitch.com/index.php/feed/
+  repo: https://github.com/signalwire/freeswitch
+  bugs: https://github.com/signalwire/freeswitch/issues
+  wiki: https://en.wikipedia.org/wiki/FreeSWITCH
+  tags:
+  - sip
+  - voip
+  - media server
+- name: Kamailio
+  url: https://www.kamailio.org/w
+  logo: https://www.kamailio.org/w/wp-content/uploads/2016/04/kamailio-logo-2015-140x64.png
+  rss: https://www.kamailio.org/w/feed/
+  repo: https://github.com/kamailio/kamailio
+  bugs: https://github.com/kamailio/kamailio/issues
+  wiki: https://en.wikipedia.org/wiki/Kamailio
+  tags:
+  - sip
+  - router
+- name: Jitsi Meet
+  url: https://jitsi.org/meet
+  logo: https://jitsi.org/wp-content/themes/jitsi/images/logo.png
+  rss: https://jitsi.org/feed/
+  repo: https://github.com/jitsi/jitsi-meet
+  bugs: https://github.com/jitsi/jitsi-meet/issues
+  wiki: https://en.wikipedia.org/wiki/Jitsi#Jitsi_Meet
+  tags:
+  - conferencing
+  - instant messaging
